@@ -1,0 +1,3 @@
+[submodule "web3appcontract/lib/forge-std"]
+	path = web3appcontract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
